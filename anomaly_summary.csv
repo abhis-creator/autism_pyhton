@@ -1,0 +1,10 @@
+,0
+interaction_frequency,0.017857992784457075
+session_duration,0.11376194688982029
+engagement_score,0.1026910480559853
+repetitive_behavior,0.0123931109237625
+utterance_length,0.0367656350154317
+kmeans_cluster,1.054016620498615
+dbscan_cluster,3.6426592797783934
+anomaly_score,0.5494466961041722
+anomaly,1.0

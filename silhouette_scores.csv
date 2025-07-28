@@ -1,0 +1,5 @@
+,0
+kmeans_silhouette,0.5371421120218013
+dbscan_silhouette,0.5390332302881236
+dbscan_eps,0.09
+dbscan_min_samples,10.0
